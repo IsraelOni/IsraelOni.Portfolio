@@ -106,3 +106,12 @@ a.nav-item:hover {
 	}
 
 }
+
+.project-text h2{
+	
+    font-family: 'Roboto', sans-serif;
+	font-size: 1.5em;
+	margin-bottom: 0.5em;
+	text-decoration: underline;
+	
+}
